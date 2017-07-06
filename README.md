@@ -1,5 +1,5 @@
 # Santa Claus
-The Santa Claus problem. Java Thread Synchronization
+
 ***NOTE:** This README and most of the comments in the code are in german*
 
 
@@ -28,6 +28,6 @@ Santa-Klaus gewährt seinen Rentieren den Vortritt, falls eine Gruppe Elfen und 
  
 ## Diagramm
 <p align="center">
-	<img src="OOD_diagram.png" width="500">
+	<img src="OOD_diagram.png" width="750">
 </p>
  
